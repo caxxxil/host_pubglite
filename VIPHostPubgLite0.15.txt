@@ -1,0 +1,99 @@
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.1 apse-sstart.ludashi.com
+0.0.0.1 net.rayjump.com
+0.0.0.1 analytics.rayjump.com
+0.0.0.1 setting.rayjump.com
+0.0.0.1 cdn.appnext.com
+0.0.0.1 global.appnext.com
+0.0.0.1 apis.appnxt.net
+0.0.0.1 gameguardian.net
+0.0.0.1 backup.qq.com
+0.0.0.1 local.qq.com
+0.0.0.1 pubg.mobile.com
+ #" "#   #"  " #" "#  #" "#    #
+ #   #   #     #   #  #   #    #
+ "#m"#   #     "#m#"  "#m#"    "mm
+  m  #
+   ""#loop" #m#    #mmm#"  #  #   #  #    # '"'
+ #   "m #  #m  #       #mm#   "mm"    #
+#loop" #m#    #mmm#"  #  #   #  #    # '"'
+0.0.0.0 .cn
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.0 .qq.com
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .cnzz.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .cn
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.0 .akamaized.net
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .proximabeta.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.0 .pubgmobile.com
+0.0.0.0 .gclouds.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.0 .tencent.com
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+0.0.0.0 .cn
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
+ #    " #   "m #      #    #   ##   mm#mm
+0.0.0.0 .helpshift.com
+#              127.0.0.1       localhost
+#              ::1             ip6-localhost
+49.51.171.105     bbx.com
+49.51.172.157      cdd.com
+182.254.116.117 dtaxw
+172.104.163.233 xhaja
+49.51.169.69        xsv.vom
+203.205.232.188   catq
+49.51.172.193     sycys
+49.51.168.200       cdua
+49.51.134.165       csw
+120.198.203.182 chsa
+49.51.229.98      b cs
+49.51.152.243     xhs
+49.51.150.231    bsu
+49.51.155.103 bbf
+127.0.0.1 gameguardian.net
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+0.0.0.0 .weiyun.com
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .766xqwx.com
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .actencent.com
+0.0.0.0 .bqqpx.com
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .cftres.com
+0.0.0.0 .igcdn.cn
+loop  m    loop  mm   m    m loopm
+ #   "# #  m"  #   "#   ##   "m  m"   #
+ #loop" #m#    #mmm#"  #  #   #  #    #
+0.0.0.0 .imqq.cn
+#loop" #m#    #mmm#"  #  #   #  #    #
+ #   "m #  #m  #       #mm#   "mm"    #
